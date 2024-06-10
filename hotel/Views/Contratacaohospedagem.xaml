@@ -1,0 +1,18 @@
+<ContentPage xmls="http://schemas.com/dotnet/2021/maui"
+             xmlns="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hotel.Views.Contratacaohospedagem"
+             Title="Contratacaohospedagem"
+             NavigationPage.HasNavigationBar="False"
+             BackgroudColor="{StaticResource Gray100}">
+
+
+    <VerticalStackLayout
+        VerticalOptical="CenterAndExpand"
+        Padding"10"
+        Spacing "10">
+        
+        <Label Text="Calculo da Diraria "
+               FontFamly
+       </VerticalStackLayout>
+   
+</ContentPage>
